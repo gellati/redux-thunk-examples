@@ -5,5 +5,6 @@
 | Folder | usecase |
 |--------|---------|
 |[redux_thunk_middleware_z2XCUu2wIl0](./redux_thunk_middleware_z2XCUu2wIl0) | use in node |
+|[redux_thunk_middleware_Sqkm39rqmEg](./redux_thunk_middleware_Sqkm39rqmEg) | click counter |
 
 The folder names are taken from the video title and the video id on Youtube.
