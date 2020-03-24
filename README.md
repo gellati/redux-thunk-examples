@@ -6,5 +6,6 @@
 |--------|---------|
 |[redux_thunk_middleware_z2XCUu2wIl0](./redux_thunk_middleware_z2XCUu2wIl0) | use in node |
 |[redux_thunk_middleware_Sqkm39rqmEg](./redux_thunk_middleware_Sqkm39rqmEg) | click counter |
+|[redux_thunk_middleware_async_actions_in_redux_7pLTOgfhh5Y](./redux_thunk_middleware_async_actions_in_redux_7pLTOgfhh5Y) | webform, get request |
 
 The folder names are taken from the video title and the video id on Youtube.
